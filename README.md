@@ -1,1 +1,2 @@
-# Welcome to my Site
+# Bernie Frisch
+### Writer. Cartoonist.
