@@ -1,2 +1,0 @@
-# Bernie Frisch
-### Writer. Cartoonist.
