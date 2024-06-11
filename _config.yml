@@ -23,8 +23,8 @@ email: berniefrisch9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cartoonist. Author. Creator of Demon Lands
 baseurl: "" # the subpath of your site, e.g. /blog
-url: berniefrisch.locals.com
-github_username:  jekyll
+url: berniefrisch.github.io
+github_username:  berniefrisch
 
 # Build settings
 theme: minima
