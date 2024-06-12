@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+permalink: /home/
 ---
 
 Welcome to my site! My name is Bernie Frisch, and I am the creator of Demon Lands, my upcoming graphic novel series!
