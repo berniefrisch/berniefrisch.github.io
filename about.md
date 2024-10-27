@@ -1,3 +1,5 @@
+permalink: /about/
+
 # About
 
 My name is Bernie Frisch. I'm a cartoonist and character designer (and creator of Kairos Bijou).
